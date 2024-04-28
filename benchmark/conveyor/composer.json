@@ -1,0 +1,10 @@
+{
+    "require": {
+        "kanata-php/socket-conveyor": "^2.1"
+    },
+    "config": {
+        "allow-plugins": {
+            "phpro/grumphp": false
+        }
+    }
+}

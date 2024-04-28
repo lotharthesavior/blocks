@@ -1,0 +1,6 @@
+.env
+vendor
+.idea
+*.csv
+*.pyc
+node_modules
